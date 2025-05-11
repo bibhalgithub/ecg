@@ -9,4 +9,3 @@ joblib
 opencv-python
 scikit-image
 pillow
-random forest classifier
